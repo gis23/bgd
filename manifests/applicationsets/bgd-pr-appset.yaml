@@ -7,7 +7,7 @@ spec:
   generators:
   - pullRequest:
       github:
-        owner: christianh814
+        owner: gis23
         repo: bgd
         labels:
         - preview
